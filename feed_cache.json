@@ -1,0 +1,187 @@
+{
+    "https://aqvilegia.ru/101kr": {
+        "fingerprint": "2762f680b3edf4ef85604bdc4aa0b9fa",
+        "raw_data": {
+            "h1_title": "Букет 101 красная роза 60 см",
+            "brand": "Aqvilegia",
+            "currency": "RUB",
+            "images": [
+                "https://m-files.cdn1.cc/lpfile/7/5/5/755feab9915289103e3cc9a7b617a062.jpeg",
+                "https://m-files.cdn1.cc/lpfile/0/a/e/0aea0bf6c175467d9eef9f8a52503f84.jpeg",
+                "https://m-files.cdn1.cc/lpfile/6/8/8/688fed79dda06e5ae35a59cef57eb7b3.jpeg",
+                "https://m-files.cdn1.cc/lpfile/2/8/d/28d3ab8c7a21ecfd39620e9f9d91a758.jpeg",
+                "https://m-files.cdn1.cc/lpfile/f/6/8/f682e0e959163958d8ab08500dbe6f56.jpeg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Красные розы (101 шт.)",
+            "category_usp": "",
+            "description_usp": "101 красная роза, высота 60 см, атласная лента, дизайнерская упаковка",
+            "sales_notes": "Бесплатная доставка по Москве в пределах МКАД от 20 мин",
+            "custom_labels": [
+                "Красные",
+                "Розы",
+                "101 шт."
+            ],
+            "variations": [
+                {
+                    "title": "Букет 101 красная роза 50 см",
+                    "description": "101 красная роза, высота 50 см, атласная лента, дизайнерская упаковка. Символ любви и страсти. Бесплатная доставка по Москве в пределах МКАД от 20 минут."
+                },
+                {
+                    "title": "Букет 101 красная роза 70 см",
+                    "description": "101 красная роза, высота 70 см, атласная лента, дизайнерская упаковка. Символ любви и страсти. Бесплатная доставка по Москве в пределах МКАД от 20 минут."
+                }
+            ],
+            "ai_templates": {
+                "custom_offer_desc": "Свежий букет 101 красная роза 60 см за {price} руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО!"
+            },
+            "selectors": {},
+            "semantic_pattern": "Букет из [количество] [цвет] роз [высота] см",
+            "collection_description": "Букет 101 красная роза 60 см. Доставка от 20 мин. Фото до отправки",
+            "extraction_mode": "ai",
+            "price": "8990",
+            "oldprice": ""
+        },
+        "last_seen": "2026-05-05T23:44:40.091766"
+    },
+    "https://aqvilegia.ru/51kr": {
+        "fingerprint": "fea9be39b927631302be2d8197ce77c3",
+        "fp_str": "Букет из 51 красной розы_5990_false",
+        "raw_data": {
+            "h1_title": "Букет 51 красная роза Red Naomi",
+            "brand": "Aqvilegia",
+            "price_raw": "5990",
+            "oldprice_raw": "7395",
+            "currency": "RUB",
+            "images": [
+                "https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Красные розы (51 шт.)",
+            "category_usp": "",
+            "description_usp": "51 роза Red Naomi, атласная лента 2 шт, дизайнерская упаковка 2 шт",
+            "sales_notes": "Бесплатная доставка по Москве в пределах МКАД от 20 мин до 1 часа",
+            "custom_labels": [
+                "Розы",
+                "51 шт.",
+                "Красные"
+            ],
+            "variations": [
+                {
+                    "title": "Букет 51 красная роза Red Naomi",
+                    "description": "51 роза Red Naomi, атласная лента 2 шт, дизайнерская упаковка 2 шт. Бесплатная доставка по Москве в пределах МКАД от 20 мин до 1 часа."
+                },
+                {
+                    "title": "Букет 51 красная роза Red Naomi",
+                    "description": "51 роза Red Naomi, атласная лента 2 шт, дизайнерская упаковка 2 шт. Бесплатная доставка по Москве в пределах МКАД от 20 мин до 1 часа."
+                }
+            ],
+            "ai_templates": {
+                "custom_offer_desc": "Свежий букет 51 красная роза red naomi за {price} руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО!"
+            },
+            "selectors": {},
+            "semantic_pattern": "Букет из {количество} {цвет} роз {сорт} с {аксессуары}",
+            "collection_description": "Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-10T20:37:37.324008"
+    },
+    "https://aqvilegia.ru/31kr": {
+        "fingerprint": "aca58b7812cda1a1cbe04b059c27863a",
+        "raw_data": {
+            "h1_title": "Букет из 31 красной розы",
+            "brand": "Aqvilegia",
+            "currency": "RUB",
+            "images": [
+                "https://m-files.cdn1.cc/lpfile/e/c/1/ec1303fae0e4cc8da9a68e166f126aa8.jpeg",
+                "https://m-files.cdn1.cc/lpfile/a/5/8/a58ae0ad8a479b5bb3b735ea0b499281.jpeg",
+                "https://m-files.cdn1.cc/lpfile/e/3/9/e39a0ca1ac38a8a20d7ae10d656a5baf.jpeg",
+                "https://m-files.cdn1.cc/lpfile/7/e/3/7e3ca397923ec0ecc6f4e405a71ff13d.jpeg",
+                "https://m-files.cdn1.cc/lpfile/7/6/0/7605b62e5c8e75db4f5871c254f08a1e.jpeg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Красные розы (31 шт.)",
+            "category_usp": "",
+            "description_usp": "31 роза Red Naomi, атласная лента, дизайнерская упаковка. Высота 50-80 см",
+            "sales_notes": "Бесплатная доставка по Москве в пределах МКАД от 20 мин",
+            "custom_labels": [
+                "31 шт.",
+                "Красные",
+                "Розы"
+            ],
+            "variations": [
+                {
+                    "title": "Букет из 31 красной розы 50 см",
+                    "description": "Букет из 31 красной розы Red Naomi высотой 50 см. Свежесть гарантирована, доставка бесплатно по Москве в пределах МКАД от 20 минут"
+                },
+                {
+                    "title": "Букет из 31 красной розы 60 см",
+                    "description": "Букет из 31 красной розы Red Naomi высотой 60 см. Свежесть гарантирована, доставка бесплатно по Москве в пределах МКАД от 20 минут"
+                }
+            ],
+            "ai_templates": {
+                "custom_offer_desc": "Свежий букет из 31 красной розы за {price} руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО!"
+            },
+            "selectors": {},
+            "semantic_pattern": "Букет из {количество} {цвет} роз {сорт} высотой {высота} см. Состав: {состав}. Свежесть гарантирована, доставка бесплатно по Москве в пределах МКАД от 20 минут",
+            "collection_description": "Букет из 31 красной розы. Доставка от 20 мин. Фото до отправки",
+            "extraction_mode": "ai",
+            "price": "3990",
+            "oldprice": ""
+        },
+        "last_seen": "2026-05-05T23:45:17.936746"
+    },
+    "https://aqvilegia.ru/21kr": {
+        "fingerprint": "be4138230e1ca61fbd9fb5f12b5a4361",
+        "raw_data": {
+            "h1_title": "Букет 21 красная роза 60 см",
+            "brand": "Aqvilegia",
+            "price_raw": "2990",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://m-files.cdn1.cc/lpfile/a/e/f/aefbe013f5f8f0731b74f531508a5d31.jpeg",
+                "https://m-files.cdn1.cc/lpfile/4/8/d/48d484c9b8660e35ff59581199f4dfec.jpeg",
+                "https://m-files.cdn1.cc/lpfile/9/2/5/925faee4780109a3e77a63245f21aad2.jpeg",
+                "https://m-files.cdn1.cc/lpfile/9/e/a/9ea05b45c610baa3d322acfe970c7b98.jpeg",
+                "https://m-files.cdn1.cc/lpfile/6/f/5/6f5f4fcc4222d8fb2ee70bd17bcf1a57.jpeg"
+            ],
+            "specs": {
+                "высота букета": "60 см",
+                "количество роз": "21",
+                "цвет": "красный"
+            },
+            "available": true,
+            "category_name": "Красные розы (21 шт.)",
+            "category_usp": "",
+            "description_usp": "21 красная роза, атласная лента 2 шт, дизайнерская упаковка 2 шт",
+            "sales_notes": "Бесплатная доставка по Москве в пределах МКАД от 20 мин",
+            "custom_labels": [
+                "Красные",
+                "21 шт.",
+                "Розы"
+            ],
+            "variations": [
+                {
+                    "title": "Букет 21 красная роза 50 см",
+                    "description": "21 красная роза, высота 50 см, атласная лента 2 шт, дизайнерская упаковка 2 шт. Бесплатная доставка по Москве в пределах МКАД от 20 мин"
+                },
+                {
+                    "title": "Букет 21 красная роза 70 см",
+                    "description": "21 красная роза, высота 70 см, атласная лента 2 шт, дизайнерская упаковка 2 шт. Бесплатная доставка по Москве в пределах МКАД от 20 мин"
+                }
+            ],
+            "ai_templates": {
+                "custom_offer_desc": "Свежий букет 21 красная роза 60 см за {price} руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО!"
+            },
+            "selectors": {},
+            "semantic_pattern": "Букет из {количество} {цвет} роз {высота} см",
+            "collection_description": "Букет 21 красная роза 60 см. Доставка от 20 мин. Фото до отправки",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-10T20:11:06.065019"
+    }
+}
