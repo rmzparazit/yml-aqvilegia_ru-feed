@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-10 20:37">
+<yml_catalog date="2026-05-11 06:42">
   <shop>
     <name>aqvilegia.ru</name>
     <company>Аквилегия</company>
@@ -8,13 +8,13 @@
       <currency id="RUB" rate="1"/>
     </currencies>
     <categories>
-      <category id="3214199400">Красные розы 101 шт</category>
-      <category id="2281033268">Красные розы 51 шт</category>
-      <category id="7693868273">Красные розы 31 шт</category>
-      <category id="8255885950">Красные розы 21 шт</category>
+      <category id="3214199400">Красные розы (101 шт.)</category>
+      <category id="7693868273">Красные розы (31 шт.)</category>
+      <category id="8255885950">Красные розы (21 шт.)</category>
+      <category id="2281033268">Красные розы (51 шт.)</category>
     </categories>
     <offers>
-      <offer id="85938513191247283105793746344666195050" available="true" type="vendor.model">
+      <offer id="85938513191247283105793746344666195050" available="false" type="vendor.model">
         <name>101 красная роза за 8990р. с доставкой в Москве</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -35,7 +35,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="1506855386339349915469472447834897533" available="true" type="vendor.model">
+      <offer id="1506855386339349915469472447834897533" available="false" type="vendor.model">
         <name>101 красная роза за 8990р. купить с доставкой в Москве</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -56,7 +56,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="79123514367642468509060708788417876945" available="true" type="vendor.model">
+      <offer id="79123514367642468509060708788417876945" available="false" type="vendor.model">
         <name>101 красная роза за 8990р. заказать с доставкой в Москве</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -77,7 +77,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="334669327092145633449824397176501098577" available="true" type="vendor.model">
+      <offer id="334669327092145633449824397176501098577" available="false" type="vendor.model">
         <name>Букет из 101 красной розы за 8990р. Доставка в Москве</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -98,7 +98,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="207233403941560145435031989110740406251" available="true" type="vendor.model">
+      <offer id="207233403941560145435031989110740406251" available="false" type="vendor.model">
         <name>Букет из 101 красной розы Премиум! Доставка по Москве</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -119,7 +119,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="152067178308767728210493758656598701037" available="true" type="vendor.model">
+      <offer id="152067178308767728210493758656598701037" available="false" type="vendor.model">
         <name>Букет из 101 красной розы Премиум за 8990р</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -140,7 +140,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="209931015518302690749094100378459757609" available="true" type="vendor.model">
+      <offer id="209931015518302690749094100378459757609" available="false" type="vendor.model">
         <name>Свежий букет из 101 красной розы за 8990р. на заказ</name>
         <url>https://aqvilegia.ru/101kr</url>
         <price>8990</price>
@@ -161,126 +161,7 @@
         <custom_label_1>Розы</custom_label_1>
         <custom_label_2>101 шт.</custom_label_2>
       </offer>
-      <offer id="311444948041257596721638301339000554369" available="true" type="vendor.model">
-        <name>51 красная роза за 5990р. с доставкой в Москве</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="135382866394050770623553566153388431794" available="true" type="vendor.model">
-        <name>51 красная роза за 5990р. купить с доставкой в Москве</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="158550869511722314745922871675865111563" available="true" type="vendor.model">
-        <name>51 красная роза за 5990р. заказать с доставкой в Москве</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="340037925969160568076313426175223896492" available="true" type="vendor.model">
-        <name>Букет из 51 красной розы за 5990. Доставка в Москве</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="327877161052311618404446112266288230836" available="true" type="vendor.model">
-        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="103434150263645396094365262961635310919" available="true" type="vendor.model">
-        <name>Букет из 51 красной розы Премиум за 5990р</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="86659937239323666378595171390929514985" available="true" type="vendor.model">
-        <name>Свежий букет из 51 красной розы за 5990р. на заказ</name>
-        <url>https://aqvilegia.ru/51kr</url>
-        <price>5990</price>
-        <oldprice>7395</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>2281033268</categoryId>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-        <typePrefix>Букет</typePrefix>
-        <vendor>Aqvilegia</vendor>
-        <model>51 красная роза Red Naomi</model>
-        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
-        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
-        <custom_label_0>Розы</custom_label_0>
-        <custom_label_1>51 шт.</custom_label_1>
-        <custom_label_2>Красные</custom_label_2>
-      </offer>
-      <offer id="248667809937035637692060229507879479176" available="true" type="vendor.model">
+      <offer id="248667809937035637692060229507879479176" available="false" type="vendor.model">
         <name>31 красная роза за 3990р. с доставкой в Москве</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -301,7 +182,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="33364828496051213378131145079687356021" available="true" type="vendor.model">
+      <offer id="33364828496051213378131145079687356021" available="false" type="vendor.model">
         <name>31 красная роза за 3990р. купить с доставкой в Москве</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -322,7 +203,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="8721816152491016423890393214783305736" available="true" type="vendor.model">
+      <offer id="8721816152491016423890393214783305736" available="false" type="vendor.model">
         <name>31 красная роза за 3990р. заказать с доставкой в Москве</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -343,7 +224,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="224397089401235484583064650422717323430" available="true" type="vendor.model">
+      <offer id="224397089401235484583064650422717323430" available="false" type="vendor.model">
         <name>Букет из 31 красной розы за 3990р. Доставка в Москве</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -364,7 +245,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="283486717119000821833077342053972118252" available="true" type="vendor.model">
+      <offer id="283486717119000821833077342053972118252" available="false" type="vendor.model">
         <name>Букет из 31 красной розы Премиум! Доставка по Москве</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -385,7 +266,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="43821840285143457606723165880799657809" available="true" type="vendor.model">
+      <offer id="43821840285143457606723165880799657809" available="false" type="vendor.model">
         <name>Букет из 31 красной розы Премиум за 3990р</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -406,7 +287,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="207511347986776701492415327806799650656" available="true" type="vendor.model">
+      <offer id="207511347986776701492415327806799650656" available="false" type="vendor.model">
         <name>Свежий букет из 31 красной розы за 3990р. на заказ</name>
         <url>https://aqvilegia.ru/31kr</url>
         <price>3990</price>
@@ -427,7 +308,7 @@
         <custom_label_1>Красные</custom_label_1>
         <custom_label_2>Розы</custom_label_2>
       </offer>
-      <offer id="193625840318821447369677155498393055278" available="true" type="vendor.model">
+      <offer id="193625840318821447369677155498393055278" available="false" type="vendor.model">
         <name>21 красная роза за 2990р. с доставкой в Москве</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -451,7 +332,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="109155743103545651404365269305049619274" available="true" type="vendor.model">
+      <offer id="109155743103545651404365269305049619274" available="false" type="vendor.model">
         <name>21 красная роза за 2990р. купить с доставкой в Москве</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -475,7 +356,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="91970100274570357707145181003677737658" available="true" type="vendor.model">
+      <offer id="91970100274570357707145181003677737658" available="false" type="vendor.model">
         <name>21 красная роза за 2990р. заказать с доставкой в Москве</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -499,7 +380,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="37826917494859327317362663129040207448" available="true" type="vendor.model">
+      <offer id="37826917494859327317362663129040207448" available="false" type="vendor.model">
         <name>Букет из 21 красной розы за 2990р. Доставка в Москве</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -523,7 +404,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="3513880991146934377977463050500325333" available="true" type="vendor.model">
+      <offer id="3513880991146934377977463050500325333" available="false" type="vendor.model">
         <name>Букет из 21 красной розы Премиум! Доставка по Москве</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -547,7 +428,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="319528667086169268941249637154060314642" available="true" type="vendor.model">
+      <offer id="319528667086169268941249637154060314642" available="false" type="vendor.model">
         <name>Букет из 21 красной розы Премиум за 2990р</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -571,7 +452,7 @@
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
       </offer>
-      <offer id="131810372224812892457113410190214610719" available="true" type="vendor.model">
+      <offer id="131810372224812892457113410190214610719" available="false" type="vendor.model">
         <name>Свежий букет из 21 красной розы за 2990р. на заказ</name>
         <url>https://aqvilegia.ru/21kr</url>
         <price>2990</price>
@@ -594,6 +475,125 @@
         <param name="высота букета">60 см</param>
         <param name="количество роз">21</param>
         <param name="цвет">красный</param>
+      </offer>
+      <offer id="311444948041257596721638301339000554369" available="false" type="vendor.model">
+        <name>51 красная роза за 5990р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="135382866394050770623553566153388431794" available="false" type="vendor.model">
+        <name>51 красная роза за 5990р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="158550869511722314745922871675865111563" available="false" type="vendor.model">
+        <name>51 красная роза за 5990р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="340037925969160568076313426175223896492" available="false" type="vendor.model">
+        <name>Букет из 51 красной розы за 5990. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="327877161052311618404446112266288230836" available="false" type="vendor.model">
+        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="103434150263645396094365262961635310919" available="false" type="vendor.model">
+        <name>Букет из 51 красной розы Премиум за 5990р</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
+      </offer>
+      <offer id="86659937239323666378595171390929514985" available="false" type="vendor.model">
+        <name>Свежий букет из 51 красной розы за 5990р. на заказ</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>5990</price>
+        <oldprice>7395</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2281033268</categoryId>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+        <typePrefix>Букет</typePrefix>
+        <vendor>Aqvilegia</vendor>
+        <model>51 красная роза Red Naomi</model>
+        <description>Свежий букет 51 красная роза red naomi за 5990 руб. Авторская сборка от флористов. Бережная и быстрая доставка по Москве и МО</description>
+        <sales_notes>Бесплатная доставка по Москве в пределах МКАД</sales_notes>
+        <custom_label_0>Розы</custom_label_0>
+        <custom_label_1>51 шт.</custom_label_1>
+        <custom_label_2>Красные</custom_label_2>
       </offer>
     </offers>
     <collections>
@@ -638,48 +638,6 @@
         <name>Свежий букет из 101 красной розы за 8990р. на заказ</name>
         <description>Букет 101 красная роза 60 см. Доставка от 20 мин. Фото до отправки</description>
         <picture>https://m-files.cdn1.cc/lpfile/7/5/5/755feab9915289103e3cc9a7b617a062.jpeg</picture>
-      </collection>
-      <collection id="col_311444948041257596721638301339000554369">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>51 красная роза за 5990р. с доставкой в Москве</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_135382866394050770623553566153388431794">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>51 красная роза за 5990р. купить с доставкой в Москве</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_158550869511722314745922871675865111563">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>51 красная роза за 5990р. заказать с доставкой в Москве</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_340037925969160568076313426175223896492">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>Букет из 51 красной розы за 5990. Доставка в Москве</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_327877161052311618404446112266288230836">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_103434150263645396094365262961635310919">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>Букет из 51 красной розы Премиум за 5990р</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
-      </collection>
-      <collection id="col_86659937239323666378595171390929514985">
-        <url>https://aqvilegia.ru/51kr</url>
-        <name>Свежий букет из 51 красной розы за 5990р. на заказ</name>
-        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
-        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
       </collection>
       <collection id="col_248667809937035637692060229507879479176">
         <url>https://aqvilegia.ru/31kr</url>
@@ -764,6 +722,48 @@
         <name>Свежий букет из 21 красной розы за 2990р. на заказ</name>
         <description>Букет 21 красная роза 60 см. Доставка от 20 мин. Фото до отправки</description>
         <picture>https://m-files.cdn1.cc/lpfile/a/e/f/aefbe013f5f8f0731b74f531508a5d31.jpeg</picture>
+      </collection>
+      <collection id="col_311444948041257596721638301339000554369">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 5990р. с доставкой в Москве</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_135382866394050770623553566153388431794">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 5990р. купить с доставкой в Москве</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_158550869511722314745922871675865111563">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 5990р. заказать с доставкой в Москве</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_340037925969160568076313426175223896492">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы за 5990. Доставка в Москве</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_327877161052311618404446112266288230836">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_103434150263645396094365262961635310919">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы Премиум за 5990р</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
+      </collection>
+      <collection id="col_86659937239323666378595171390929514985">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Свежий букет из 51 красной розы за 5990р. на заказ</name>
+        <description>Букет 51 красная роза Red Naomi. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
       </collection>
     </collections>
   </shop>
