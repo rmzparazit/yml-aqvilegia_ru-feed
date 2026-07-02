@@ -1,0 +1,795 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-07-02 06:48">
+  <shop>
+    <name>aqvilegia.ru</name>
+    <company>Аквилегия</company>
+    <url>https://aqvilegia.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="14340800">Авторские букеты</category>
+    </categories>
+    <offers>
+      <offer id="31706147" available="true" type="vendor.model">
+        <name>101 красная роза за 6990р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_1" available="true" type="vendor.model">
+        <name>101 красная роза за 6990р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_1</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_2" available="true" type="vendor.model">
+        <name>101 красная роза за 6990р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_2</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_3" available="true" type="vendor.model">
+        <name>Букет из 101 красной розы за 6990р. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_3</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_4" available="true" type="vendor.model">
+        <name>Букет из 101 красной розы Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_4</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_5" available="true" type="vendor.model">
+        <name>Букет из 101 красной розы Премиум за 6990р</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_5</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="31706147_6" available="true" type="vendor.model">
+        <name>Свежий букет из 101 красной розы за 6990р. на заказ</name>
+        <url>https://aqvilegia.ru/101kr</url>
+        <price>6990</price>
+        <oldprice>11390</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_31706147_6</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 6990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="24768612" available="true" type="vendor.model">
+        <name>51 красная роза за 3990р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_1" available="true" type="vendor.model">
+        <name>51 красная роза за 3990р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_1</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_2" available="true" type="vendor.model">
+        <name>51 красная роза за 3990р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_2</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_3" available="true" type="vendor.model">
+        <name>Букет из 51 красной розы за 3990. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_3</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_4" available="true" type="vendor.model">
+        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_4</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_5" available="true" type="vendor.model">
+        <name>Букет из 51 красной розы Премиум за 3990р</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_5</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="24768612_6" available="true" type="vendor.model">
+        <name>Свежий букет из 51 красной розы за 3990р. на заказ</name>
+        <url>https://aqvilegia.ru/51kr</url>
+        <price>3990</price>
+        <oldprice>7995</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_24768612_6</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 3990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="10159117" available="true" type="vendor.model">
+        <name>31 красная роза за 2790р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_1" available="true" type="vendor.model">
+        <name>31 красная роза за 2790р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_1</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_2" available="true" type="vendor.model">
+        <name>31 красная роза за 2790р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_2</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_3" available="true" type="vendor.model">
+        <name>Букет из 31 красной розы за 2790р. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_3</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_4" available="true" type="vendor.model">
+        <name>Букет из 31 красной розы Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_4</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_5" available="true" type="vendor.model">
+        <name>Букет из 31 красной розы Премиум за 2790р</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_5</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="10159117_6" available="true" type="vendor.model">
+        <name>Свежий букет из 31 красной розы за 2790р. на заказ</name>
+        <url>https://aqvilegia.ru/31kr</url>
+        <price>2790</price>
+        <oldprice>3069</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_10159117_6</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 2790 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Атласная лента">1 шт</param>
+        <param name="Роза red naomi">31 шт</param>
+        <param name="Дизайнерская упаковка">2 шт</param>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130" available="true" type="vendor.model">
+        <name>21 красная роза за 1990р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_1" available="true" type="vendor.model">
+        <name>21 красная роза за 1990р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_1</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_2" available="true" type="vendor.model">
+        <name>21 красная роза за 1990р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_2</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_3" available="true" type="vendor.model">
+        <name>Букет из 21 красной розы за 1990р. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_3</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_4" available="true" type="vendor.model">
+        <name>Букет из 21 красной розы Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_4</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_5" available="true" type="vendor.model">
+        <name>Букет из 21 красной розы Премиум за 1990р</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_5</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="28427130_6" available="true" type="vendor.model">
+        <name>Свежий букет из 21 красной розы за 1990р. на заказ</name>
+        <url>https://aqvilegia.ru/21kr</url>
+        <price>1990</price>
+        <oldprice>2189</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_28427130_6</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 1990 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+        <param name="Высота букета">50 см, 60 см, 70 см, 80 см</param>
+      </offer>
+      <offer id="29507248" available="true" type="vendor.model">
+        <name>11 красных роз за 5000р. с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_1" available="true" type="vendor.model">
+        <name>11 красных роз за 5000р. купить с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_1</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_2" available="true" type="vendor.model">
+        <name>11 красных роз за 5000р. заказать с доставкой в Москве</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_2</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_3" available="true" type="vendor.model">
+        <name>Букет из 11 красных роз за 5000р. Доставка в Москве</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_3</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_4" available="true" type="vendor.model">
+        <name>Букет из 11 красных роз Премиум! Доставка по Москве</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_4</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_5" available="true" type="vendor.model">
+        <name>Букет из 11 красных роз Премиум за 5000р</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_5</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+      <offer id="29507248_6" available="true" type="vendor.model">
+        <name>Свежий букет из 11 красных роз за 5000р. на заказ</name>
+        <url>https://aqvilegia.ru/11kr</url>
+        <price>5000</price>
+        <oldprice>5500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>14340800</categoryId>
+        <collectionId>col_29507248_6</collectionId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+        <typePrefix>Состав</typePrefix>
+        <vendor>Аквилегия</vendor>
+        <model>Без модели</model>
+        <description>Свежий состав за 5000 руб. Авторская сборка от флористов. Бережная и быстрая</description>
+        <sales_notes>Доставка букетов от 20 минут по Москве и МО</sales_notes>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_31706147">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>101 красная роза за 6990р. с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_1">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>101 красная роза за 6990р. купить с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_2">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>101 красная роза за 6990р. заказать с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_3">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>Букет из 101 красной розы за 6990р. Доставка в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_4">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>Букет из 101 красной розы Премиум! Доставка по Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_5">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>Букет из 101 красной розы Премиум за 6990р</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_31706147_6">
+        <url>https://aqvilegia.ru/101kr</url>
+        <name>Свежий букет из 101 красной розы за 6990р. на заказ</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/31706147.png</picture>
+      </collection>
+      <collection id="col_24768612">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 3990р. с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_1">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 3990р. купить с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_2">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>51 красная роза за 3990р. заказать с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_3">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы за 3990. Доставка в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_4">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы Премиум! Доставка по Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_5">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Букет из 51 красной розы Премиум за 3990р</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_24768612_6">
+        <url>https://aqvilegia.ru/51kr</url>
+        <name>Свежий букет из 51 красной розы за 3990р. на заказ</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/24768612.png</picture>
+      </collection>
+      <collection id="col_10159117">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>31 красная роза за 2790р. с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_1">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>31 красная роза за 2790р. купить с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_2">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>31 красная роза за 2790р. заказать с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_3">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>Букет из 31 красной розы за 2790р. Доставка в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_4">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>Букет из 31 красной розы Премиум! Доставка по Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_5">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>Букет из 31 красной розы Премиум за 2790р</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_10159117_6">
+        <url>https://aqvilegia.ru/31kr</url>
+        <name>Свежий букет из 31 красной розы за 2790р. на заказ</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/10159117.png</picture>
+      </collection>
+      <collection id="col_28427130">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>21 красная роза за 1990р. с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_1">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>21 красная роза за 1990р. купить с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_2">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>21 красная роза за 1990р. заказать с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_3">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>Букет из 21 красной розы за 1990р. Доставка в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_4">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>Букет из 21 красной розы Премиум! Доставка по Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_5">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>Букет из 21 красной розы Премиум за 1990р</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_28427130_6">
+        <url>https://aqvilegia.ru/21kr</url>
+        <name>Свежий букет из 21 красной розы за 1990р. на заказ</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/28427130.png</picture>
+      </collection>
+      <collection id="col_29507248">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>11 красных роз за 5000р. с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_1">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>11 красных роз за 5000р. купить с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_2">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>11 красных роз за 5000р. заказать с доставкой в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_3">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>Букет из 11 красных роз за 5000р. Доставка в Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_4">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>Букет из 11 красных роз Премиум! Доставка по Москве</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_5">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>Букет из 11 красных роз Премиум за 5000р</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+      <collection id="col_29507248_6">
+        <url>https://aqvilegia.ru/11kr</url>
+        <name>Свежий букет из 11 красных роз за 5000р. на заказ</name>
+        <description>Состав. Доставка от 20 мин. Фото до отправки</description>
+        <picture>https://raw.githubusercontent.com/rmzparazit/yml-aqvilegia_ru-feed/main/images/29507248.png</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
